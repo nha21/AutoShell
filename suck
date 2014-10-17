@@ -1,0 +1,7 @@
+asda
+asdasd
+map <C-a> i#include <iostream><CR>#include<stdio.h><CR>#include<algorithm><CR><CR>using namespace std;<CR><CR>int main(<right><CR>{<CR><CR><TAB>return 0;<CR>
+
+map <C-l> :NERDTree<Enter>
+map <A-Left> gT
+m
